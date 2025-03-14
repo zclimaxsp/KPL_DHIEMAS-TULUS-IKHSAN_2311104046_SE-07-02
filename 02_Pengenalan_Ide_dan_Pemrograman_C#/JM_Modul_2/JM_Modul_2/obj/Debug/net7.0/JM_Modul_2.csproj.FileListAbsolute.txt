@@ -1,0 +1,28 @@
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.exe
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.deps.json
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.runtimeconfig.json
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.pdb
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.AssemblyInfoInputs.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.AssemblyInfo.cs
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.csproj.CoreCompileInputs.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\refint\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.pdb
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.genruntimeconfig.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\Automata dan Table-Driven Construction\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\ref\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.exe
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.deps.json
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.runtimeconfig.json
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\bin\Debug\net7.0\JM_Modul_2.pdb
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.AssemblyInfoInputs.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.AssemblyInfo.cs
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.csproj.CoreCompileInputs.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\refint\JM_Modul_2.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.pdb
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\JM_Modul_2.genruntimeconfig.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\02_Pengenalan_Ide_dan_Pemrograman_C#\JM_Modul_2\JM_Modul_2\obj\Debug\net7.0\ref\JM_Modul_2.dll
