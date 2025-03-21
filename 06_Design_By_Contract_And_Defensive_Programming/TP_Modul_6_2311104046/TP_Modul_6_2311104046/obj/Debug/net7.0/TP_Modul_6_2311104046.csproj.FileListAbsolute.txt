@@ -2,3 +2,13 @@ D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_De
 D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.AssemblyInfoInputs.cache
 D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.AssemblyInfo.cs
 D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.csproj.CoreCompileInputs.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\bin\Debug\net7.0\TP_Modul_6_2311104046.exe
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\bin\Debug\net7.0\TP_Modul_6_2311104046.deps.json
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\bin\Debug\net7.0\TP_Modul_6_2311104046.runtimeconfig.json
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\bin\Debug\net7.0\TP_Modul_6_2311104046.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\bin\Debug\net7.0\TP_Modul_6_2311104046.pdb
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\refint\TP_Modul_6_2311104046.dll
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.pdb
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.genruntimeconfig.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\ref\TP_Modul_6_2311104046.dll
