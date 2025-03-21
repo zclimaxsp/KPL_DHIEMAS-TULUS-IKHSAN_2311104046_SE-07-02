@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\College\\Semester 4\\Konstruksi Perangkat Luna\\KPL\\05_Generics\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046.csproj",
+      "projectUniqueName": "D:\\College\\Semester 4\\Konstruksi Perangkat Luna\\KPL\\06_Design_By_Contract_Dan_Defensive_Programming\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046.csproj",
       "projectName": "TP_Modul_6_2311104046",
-      "projectPath": "D:\\College\\Semester 4\\Konstruksi Perangkat Luna\\KPL\\05_Generics\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046.csproj",
+      "projectPath": "D:\\College\\Semester 4\\Konstruksi Perangkat Luna\\KPL\\06_Design_By_Contract_Dan_Defensive_Programming\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\College\\Semester 4\\Konstruksi Perangkat Luna\\KPL\\05_Generics\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046\\obj\\",
+      "outputPath": "D:\\College\\Semester 4\\Konstruksi Perangkat Luna\\KPL\\06_Design_By_Contract_Dan_Defensive_Programming\\TP_Modul_6_2311104046\\TP_Modul_6_2311104046\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
