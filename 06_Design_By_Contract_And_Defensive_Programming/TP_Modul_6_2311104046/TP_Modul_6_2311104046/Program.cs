@@ -42,3 +42,33 @@ class SayaTubeVideo
         Console.WriteLine("Play Count: " + this.playCount);
     }
 }
+
+
+class Program
+{
+    static void Main()
+    {
+        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract – [NAMA_PRAKTIKAN]");
+
+        video.PrintVideoDetails();
+
+        // Uji prekondisi dan exception
+        try
+        {
+            video.IncreasePlayCount(5000000); // Valid
+            video.IncreasePlayCount(15000000); // Invalid (harus ditangkap oleh exception)
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error: {ex.Message}");
+        }
+
+        // Simulasi overflow dengan loop
+        for (int i = 0; i < 100; i++)
+        {
+            video.IncreasePlayCount(10000000);
+        }
+
+        video.PrintVideoDetails();
+    }
+}
