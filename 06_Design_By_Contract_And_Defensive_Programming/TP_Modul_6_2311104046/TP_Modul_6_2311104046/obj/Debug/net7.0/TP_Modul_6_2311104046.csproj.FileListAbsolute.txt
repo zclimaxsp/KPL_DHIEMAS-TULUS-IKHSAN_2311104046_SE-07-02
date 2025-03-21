@@ -1,0 +1,4 @@
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.AssemblyInfoInputs.cache
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.AssemblyInfo.cs
+D:\College\Semester 4\Konstruksi Perangkat Luna\KPL\06_Design_By_Contract_And_Defensive_Programming\TP_Modul_6_2311104046\TP_Modul_6_2311104046\obj\Debug\net7.0\TP_Modul_6_2311104046.csproj.CoreCompileInputs.cache
