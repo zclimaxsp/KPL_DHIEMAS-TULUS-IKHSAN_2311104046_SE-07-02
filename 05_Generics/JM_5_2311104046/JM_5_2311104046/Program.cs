@@ -1,11 +1,29 @@
-﻿using System;
+﻿//using System;
 
-class Penjumlahan
+//class Penjumlahan//
+
+//class Program//
+
+using System;
+using System.Collections.Generic;
+
+class SimpleDatabase<T>
 {
-    public static T JumlahTigaAngka<T>(T a, T b, T c) where T : struct
+    private List<T> data = new List<T>();
+    private List<DateTime> timestamps = new List<DateTime>();
+
+    public void AddNewData(T item)
     {
-        dynamic x = a, y = b, z = c;
-        return x + y + z;
+        data.Add(item);
+        timestamps.Add(DateTime.Now);
+    }
+
+    public void PrintAllData()
+    {
+        for (int i = 0; i < data.Count; i++)
+        {
+            Console.WriteLine($"Data: {data[i]}, Waktu: {timestamps[i]}");
+        }
     }
 }
 
@@ -13,9 +31,17 @@ class Program
 {
     static void Main()
     {
-        // NIM: 2311104046 → Menggunakan int
-        int angka1 = 23, angka2 = 11, angka3 = 04;
+        // Ganti dengan NIM kamu
+        uint nim = 2311104046;
 
-        Console.WriteLine($"Hasil: {Penjumlahan.JumlahTigaAngka<int>(angka1, angka2, angka3)}");
+        SimpleDatabase<int> database = new SimpleDatabase<int>();
+
+        // Menambahkan 3 data contoh (bisa disesuaikan)
+        database.AddNewData((int)(nim % 100));
+        database.AddNewData((int)(nim / 100) % 100);
+        database.AddNewData((int)(nim / 10000) % 100);
+
+        // Cetak semua data yang tersimpan
+        database.PrintAllData();
     }
 }
