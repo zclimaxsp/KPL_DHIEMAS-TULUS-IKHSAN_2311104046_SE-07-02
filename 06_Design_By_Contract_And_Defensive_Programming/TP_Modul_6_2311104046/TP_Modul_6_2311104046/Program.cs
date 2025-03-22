@@ -48,7 +48,7 @@ class Program
 {
     static void Main()
     {
-        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract – [NAMA_PRAKTIKAN]");
+        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract – [dhiemas_2311104046]");
 
         video.PrintVideoDetails();
 
