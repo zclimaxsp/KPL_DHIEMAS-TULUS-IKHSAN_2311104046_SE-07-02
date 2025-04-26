@@ -65,7 +65,7 @@ namespace modul9.Controllers
             {
                 return NotFound();
             }
-            users Remove(user);
+            users.Remove(user);
             return NoContent();    
         }
     }
