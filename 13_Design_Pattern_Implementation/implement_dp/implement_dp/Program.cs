@@ -42,7 +42,7 @@ namespace design_pattern
             remote.setTurnOn(turnOn);
             remote.setTurnOff(turnOff);
             remote.TurnOnTV();
-            remote.turnOffTV();
+            remote.TurnOffTV();
 
         }
     }
