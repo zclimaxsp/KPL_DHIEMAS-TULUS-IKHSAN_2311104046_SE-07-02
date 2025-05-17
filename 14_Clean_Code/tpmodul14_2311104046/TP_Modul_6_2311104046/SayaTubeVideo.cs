@@ -2,10 +2,12 @@
 
 public class SayaTubeVideo
 {
+    // memperbaiki atribut private dengan nama lebih deskriptif
     private int videoId;
     private string videoTitle;
     private int playCount;
 
+    // constructor untuk inisialisasi objek video
     public SayaTubeVideo(string title)
     {
         if (string.IsNullOrEmpty(title))
@@ -20,6 +22,7 @@ public class SayaTubeVideo
         this.playCount = 0;
     }
 
+    // method untuk menambahkan jumlah play
     public void IncreasePlayCount(int count)
     {
         if (count > 10000000)
@@ -38,6 +41,7 @@ public class SayaTubeVideo
         }
     }
 
+    // method untuk menampilkan detail video
     public void PrintDetails()
     {
         Console.WriteLine($"ID Video    : {videoId}");
