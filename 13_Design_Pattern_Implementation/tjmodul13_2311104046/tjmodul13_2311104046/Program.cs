@@ -11,7 +11,7 @@ class Program
         // C. Tambahkan nama anggota kelompok dan asisten praktikum
         data1.AddSebuahData("Dhiemas");
         data1.AddSebuahData("Eva");
-        data1.AddSebuahData("Arka");
+        data1.AddSebuahData("Desti");
         data1.AddSebuahData("Asisten: Budi");
 
         // D. Print data dari data2
