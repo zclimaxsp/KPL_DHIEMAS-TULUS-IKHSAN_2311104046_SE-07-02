@@ -2,8 +2,8 @@
 
 public class SayaTubeVideo
 {
-    private int id;
-    private string title;
+    private int videoId;
+    private string videoTitle;
     private int playCount;
 
     public SayaTubeVideo(string title)
@@ -15,8 +15,8 @@ public class SayaTubeVideo
             throw new ArgumentException("Judul video tidak boleh lebih dari 100 karakter.");
 
         Random random = new Random();
-        this.id = random.Next(10000, 99999);
-        this.title = title;
+        this.videoId = random.Next(10000, 99999);
+        this.videoTitle = title;
         this.playCount = 0;
     }
 
@@ -38,10 +38,10 @@ public class SayaTubeVideo
         }
     }
 
-    public void PrintVideoDetails()
+    public void PrintDetails()
     {
-        Console.WriteLine($"ID Video: {id}");
-        Console.WriteLine($"Judul: {title}");
-        Console.WriteLine($"Jumlah Play: {playCount}");
+        Console.WriteLine($"ID Video    : {videoId}");
+        Console.WriteLine($"Judul       : {videoTitle}");
+        Console.WriteLine($"Jumlah Play : {playCount}");
     }
 }
